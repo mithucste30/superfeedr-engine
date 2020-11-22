@@ -1,3 +1,0 @@
-[submodule "example/heroku-app-superfeedr-engine"]
-	path = example/heroku-app-superfeedr-engine
-	url = git@github.com:julien51/heroku-app-superfeedr-engine.git
